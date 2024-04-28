@@ -9,8 +9,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Block view design](https://trilok2703.github.io/blog-preview-card/)
 
 ## My process
 
@@ -26,5 +25,5 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- We- Website - [Trilok Vallamkonda](https://github.com/trilok2703/)
+- Frontend Mentor - [@trilok2703](https://www.frontendmentor.io/profile/trilok2703)
