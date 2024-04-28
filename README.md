@@ -25,5 +25,5 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Author
 
-- We- Website - [Trilok Vallamkonda](https://github.com/trilok2703/)
+- Website - [Trilok Vallamkonda](https://github.com/trilok2703/)
 - Frontend Mentor - [@trilok2703](https://www.frontendmentor.io/profile/trilok2703)
