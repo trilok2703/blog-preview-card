@@ -5,7 +5,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Screenshot
 
 ![desktop](./assets/screenshots/blog-view-card-desktop.png)
-![mobile](./assets/screenshots/blog-view-card-mobile.png)
+![mobile](./assets/screenshots/blog-view-card-desktop.png)
 
 ### Links
 
